@@ -3,5 +3,4 @@ Hii, I'm Shraddha Bhure, I have 1.5 year of experience of Microsoft .Net technol
 
 :boom:
 :collision: I have experience in various commercial applications projects, Development and maintenance of School, College, University projects, using ASP. NET Web forms, MVC, Web API, with Reporting Tools Like Crystal Reports, SQL Server, stored procedures, triggered, queries.
-
-https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png
+&#9728;
