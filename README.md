@@ -21,41 +21,25 @@ I have 1.5 year of experience of Microsoft .Net technology with development and 
 ## 🧰 Languages and Tools:
 <p align="center">
  <img src="https://www.pngitem.com/pimgs/m/531-5318011_microsoft-net-logo-microsoft-net-logo-png-transparent.png" alt="DotNet" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- 
- 
- ////
- <img src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeanaspnetwebapideveloper-mobile.png" alt="CoreDOTNET" height="40" style="vertical-align:top; margin:4px">
- //
  <img src="https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&amp;w=930" alt="SQL" height="40" style="vertical-align:top; margin:4px">
- 
- //
-
   <img src="ttps://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
- 
- 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px" style="max-width: 100%;">
 
  
  
-<a href="https://www.w3.org/TR/html5/" title="HTML5" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://git-scm.com/" title="Git" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px" style="max-width: 100%;"></a>
-
-<img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px" style="max-width: 100%;">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px" style="max-width: 100%;">
-<a href="https://isocpp.org/" title="C++" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px" style="max-width: 100%;"></a>
-
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" style="max-width: 100%;">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px" style="max-width: 100%;">
-
- <img src="https://www.pngitem.com/pimgs/m/531-5318011_microsoft-net-logo-microsoft-net-logo-png-transparent.png"
-
-
-<img src="https://miro.medium.com/max/512/1*5fQvZr2W6ydJ1fxjLgwhcg.png" 
+<a href="https://www.w3.org/TR/html5/" title="HTML5" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width: 100%; margin:4px"></a>
+<a href="https://git-scm.com/" title="Git" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px"></a>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+<a href="https://isocpp.org/" title="C++" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" height="40" style="vertical-align:top; margin:4px"></a>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.pngitem.com/pimgs/m/531-5318011_microsoft-net-logo-microsoft-net-logo-png-transparent.png"  alt="core" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/512/1*5fQvZr2W6ydJ1fxjLgwhcg.png"  alt="api" height="40" style="vertical-align:top; margin:4px">
 
  
  
