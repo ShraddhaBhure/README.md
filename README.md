@@ -29,16 +29,14 @@ I have 1.5 year of experience of Microsoft .Net technology with development and 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://redux.js.org/" title="Redux" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://vuejs.org/" title="Vue.js" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px" style="max-width: 100%;"></a>
+
+
 <a href="https://angular.io/" title="Angular" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://svelte.dev/" title="Svelte" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" alt="Svelte" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://rxjs.dev/" title="RxJS" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="RxJS" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://github.com/redux-observable/redux-observable" title="redux-observable"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux-observable.svg" alt="redux-observable" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://d3js.org/" title="D3" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/d3.svg" alt="D3" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://greensock.com/gsap/" title="GSAP" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/gsap.svg" alt="GSAP" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.webrtc.org/" title="WebRTC" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" alt="WebRTC" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://developers.google.com/web/tools/workbox" title="Workbox" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/workbox-icon.svg" alt="Workbox" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://jquery.com/" title="jQuery" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://sass-lang.com/" title="Sass" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px" style="max-width: 100%;"></a>
@@ -47,24 +45,17 @@ I have 1.5 year of experience of Microsoft .Net technology with development and 
 <a href="https://ant.design/" title="Ant Design" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/ant-design.svg" alt="Ant Design" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://nodejs.org/" title="Node.js" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://expressjs.com/" title="Express" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://nextjs.org/" title="Next.js" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.electronjs.org/" title="Electron" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://php.net/" title="PHP" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://laravel.com/" title="Laravel" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://symfony.com/" title="Symfony" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/symfony.svg" alt="Symfony" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.codeigniter.com/" title="CodeIgniter" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/codeigniter.svg" alt="CodeIgniter" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://www.java.com/" title="Java" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://spring.io/" title="Spring" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.djangoproject.com/" title="Django" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://pandas.pydata.org/" title="pandas" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://numpy.org/" title="NumPy" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.mongodb.org/" title="MongoDB" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px" style="max-width: 100%;"></a>
+
+
 <a href="https://dev.mysql.com/" title="MySQL" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://graphql.org/" title="GraphQL" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://www.apollographql.com/" title="Apollo" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/apollostack.svg" alt="Apollo" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" title="Git" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://subversion.apache.org/" title="Subversion" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/subversion.svg" alt="Subversion" width="21px" height="21px" style="max-width: 100%;"></a>
@@ -80,34 +71,28 @@ I have 1.5 year of experience of Microsoft .Net technology with development and 
 <a href="https://eslint.org/" title="ESLint" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://prettier.io/" title="Prettier" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://jestjs.io/" title="Jest" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://github.com/enzymejs/enzyme" title="Enzyme"><img src="https://github.com/get-icon/geticon/raw/master/icons/enzyme.svg" alt="Enzyme" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.cypress.io/" title="Cypress" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://nightwatchjs.org/" title="Nightwatch.js" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/nightwatch.svg" alt="Nightwatch.js" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://circleci.com/" title="CircleCI" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/circleci.svg" alt="CircleCI" width="21px" height="21px" style="max-width: 100%;"></a>
+
+
+
 <a href="https://codecov.io/" title="Codecov" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" alt="Codecov" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.sublimetext.com/" title="Sublime Text" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.gatsbyjs.com/" title="Gatsby" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/gatsby.svg" alt="Gatsby" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://gohugo.io/" title="Hugo" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/hugo-icon.svg" alt="Hugo" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://wordpress.org/" title="WordPress" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.apache.org/" title="Apache" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://aws.amazon.com/" title="AWS" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://azure.microsoft.com/" title="Microsoft Azure" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.firebase.com/" title="Firebase" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.cloudflare.com/" title="Cloudflare" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://openid.net/" title="OpenID" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/openid-icon.svg" alt="OpenID" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://deno.land/" title="Deno" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" alt="Deno" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.docker.com/" title="docker" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://reactnative.dev/" title="React Native" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px" style="max-width: 100%;"></a>
+
+
+
 <a href="https://www.embarcadero.com/products/delphi" title="Delphi" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/delphi.svg" alt="Delphi" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://isocpp.org/" title="C++" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.r-project.org/" title="R" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://nsis.sourceforge.io/" title="NSIS" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/nsis.svg" alt="NSIS" width="21px" height="21px" style="max-width: 100%;"></a>
+
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://inkscape.org/" title="Inkscape" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="21px" height="21px" style="max-width: 100%;"></a></p>
 
 
 
